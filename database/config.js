@@ -7,17 +7,17 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
+global.owner = ['254763023036']
+global.ownMain = '254763023036'
 global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = '𝙎𝙋𝙄𝘿𝙀𝙍 - 𝙑9' //
 global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
 global.packname = 'spider-v9' //
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.url1 = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d' //
+global.url2 = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d' //
+global.linkgc = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d'
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.delayjpm = 3500
 //Panel
