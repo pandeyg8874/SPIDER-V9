@@ -1,7 +1,7 @@
 /*
 
-# Base By 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
-# Owner ? : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒
+# Base By 𝗠𝗥 𝗗𝗢𝗚
+# Owner ? : 𝗠𝗥 𝗗𝗢𝗚
 !- do not delete this credit
 
 */
@@ -9,15 +9,15 @@
 global.prefa = ['','!','.',',','🐤','🗿']
 global.owner = ['254742491666']
 global.ownMain = '254742491666'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.NamaOwner = '𝗠𝗥 𝗗𝗢𝗚' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = '𝙎𝙋𝙄𝘿𝙀𝙍 - 𝙑7' //
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //
+global.author = '𝗠𝗥 𝗗𝗢𝗚' //
 global.packname = 'spider-v7' //
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.url1 = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d' //
+global.url2 = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d' //
+global.linkgc = 'https://whatsapp.com/channel/0029VarYE48Fcow7ghJ8153d'
 global.delayjpm = 3500
 //Panel
 global.domain = 'https://guru.sellerpanell.me' // your domian
@@ -30,7 +30,7 @@ global.mess = { //
 ingroup: 'This feature can only be used in groups.',
 admin: 'This feature is specifically for group admins.',
 notadmin: "The bot must be an admin first",
-owner: 'You are not 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒.',
+owner: 'You are not 𝗠𝗥 𝗗𝗢𝗚',
 premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think Im stupid?`,
