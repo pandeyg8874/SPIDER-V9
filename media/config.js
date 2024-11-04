@@ -7,8 +7,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
+global.owner = ['254763023036']
+global.ownMain = '254763023036'
 global.NamaOwner = '𝗠𝗥 𝗗𝗢𝗚' //
 global.sessionName = 'session'
 global.connect = true // 
@@ -24,7 +24,7 @@ global.domain = 'https://guru.sellerpanell.me' // your domian
 global.apikey = 'ptla_aRq7aFBbQowvPwLChvjNLX5uE0rYZ6dUdGbFIhqUwUg' // 
 global.capikey = 'ptlc_mI4q2CFLyxYSG9lqtpWVJSkqtxbQvZyheemGqW56VUH' // 
 global.eggsnya = '15' // 
-global.location = '1' // 
+global.location = '254' // 
 
 global.mess = { // 
 ingroup: 'This feature can only be used in groups.',
